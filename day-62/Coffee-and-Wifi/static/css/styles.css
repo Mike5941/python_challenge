@@ -1,0 +1,87 @@
+/* This CSS file will need to be added to the styling of 
+your web pages for the styles to be rendered. */
+
+body {
+background-color: #333;
+color: white;
+}
+
+a {
+    color: #ffc107;
+}
+
+.jumbotron {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    color: white;
+    background-color: #333;
+}
+
+.space-above {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+/* Home */
+
+.home {
+    text-align: center;
+    margin: 15% auto;
+    line-height: 2;
+}
+
+.home h1 {
+    font-size: 5rem;
+}
+
+.home p {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+}
+
+hr {
+    opacity: 50%;
+    width: 95%;
+}
+
+
+/* Cafes */
+
+.cafe_graph {
+    padding: 3%;
+}
+
+.cafe_graph h1 {
+    font-size: 4rem;
+}
+
+.cafe_graph table {
+    margin: 4% 0
+}
+
+.cafe_graph th, td {
+    font-size: 2rem;
+    line-height: 2;
+    text-align: left;
+    border-top: 3px solid grey;
+    padding: 1% ;
+    width: 1%;
+}
+
+.to_home {
+    margin-left: 3%;
+    font-size: 2rem;
+}
+
+/* Add */
+
+.add_new h1 {
+    padding: 1% 3%;
+    font-size: 4rem;
+}
+
+.add_form {
+    margin: 0 40% 0 3%;
+}

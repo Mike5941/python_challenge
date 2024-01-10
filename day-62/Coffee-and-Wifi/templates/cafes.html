@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+
+
+{% block title %}All Cafes{% endblock %}
+
+{% block content %}
+    <div class="cafe_graph">
+        <h1>All Cafes</h1>
+        {{ cafe_graph|safe }}
+    </div>
+    <a class="to_home" href="{{ url_for('home') }}">Return to index page</a>
+
+{% endblock %}

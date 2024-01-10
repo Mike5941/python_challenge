@@ -1,0 +1,209 @@
+{
+  "search_id": "65de0ab3-d035-e628-e417-80ee9b860c59",
+  "currency": "KRW",
+  "fx_rate": 1422.672313,
+  "data": [
+    {
+      "id": "099310284bf20000b2503c99_0|099310284bf20000b2503c99_1|102809934c170000f437c53b_0|102809934c170000f437c53b_1",
+      "flyFrom": "ICN",
+      "flyTo": "ZAG",
+      "cityFrom": "Seoul",
+      "cityCodeFrom": "SEL",
+      "cityTo": "Zagreb",
+      "cityCodeTo": "ZAG",
+      "countryFrom": {
+        "code": "KR",
+        "name": "South Korea"
+      },
+      "countryTo": {
+        "code": "HR",
+        "name": "Croatia"
+      },
+      "nightsInDest": 37,
+      "quality": 1279.208804,
+      "distance": 8454.36,
+      "duration": {
+        "departure": 48300,
+        "return": 49200,
+        "total": 97500
+      },
+      "price": 1477506.0006,
+      "conversion": {
+        "EUR": 1038.542739,
+        "KRW": 1477506.0006
+      },
+      "fare": {
+        "adults": 1477506,
+        "children": 1477506,
+        "infants": 1477506
+      },
+      "price_dropdown": {
+        "base_fare": 1477506.0006,
+        "fees": 0
+      },
+      "bags_price": {
+        "1": 221
+      },
+      "baglimit": {
+        "hand_height": 40,
+        "hand_length": 55,
+        "hand_weight": 8,
+        "hand_width": 23,
+        "hold_dimensions_sum": 158,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_weight": 23,
+        "hold_width": 28,
+        "personal_item_height": 35,
+        "personal_item_length": 40,
+        "personal_item_weight": 2,
+        "personal_item_width": 12
+      },
+      "availability": {
+        "seats": null
+      },
+      "airlines": [
+        "LO"
+      ],
+      "route": [
+        {
+          "id": "099310284bf20000b2503c99_0",
+          "combination_id": "099310284bf20000b2503c99",
+          "flyFrom": "ICN",
+          "flyTo": "WAW",
+          "cityFrom": "Seoul",
+          "cityCodeFrom": "SEL",
+          "cityTo": "Warsaw",
+          "cityCodeTo": "WAW",
+          "airline": "LO",
+          "flight_no": 98,
+          "operating_carrier": "LO",
+          "operating_flight_no": "98",
+          "fare_basis": "T1ASKY8",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "fare_family": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2023-03-26T14:25:00.000Z",
+          "utc_arrival": "2023-03-26T12:25:00.000Z",
+          "local_departure": "2023-03-26T10:55:00.000Z",
+          "utc_departure": "2023-03-26T01:55:00.000Z"
+        },
+        {
+          "id": "099310284bf20000b2503c99_1",
+          "combination_id": "099310284bf20000b2503c99",
+          "flyFrom": "WAW",
+          "flyTo": "ZAG",
+          "cityFrom": "Warsaw",
+          "cityCodeFrom": "WAW",
+          "cityTo": "Zagreb",
+          "cityCodeTo": "ZAG",
+          "airline": "LO",
+          "flight_no": 613,
+          "operating_carrier": "LO",
+          "operating_flight_no": "613",
+          "fare_basis": "T1ASKY8",
+          "fare_category": "M",
+          "fare_classes": "T",
+          "fare_family": "",
+          "return": 0,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2023-03-26T17:20:00.000Z",
+          "utc_arrival": "2023-03-26T15:20:00.000Z",
+          "local_departure": "2023-03-26T15:40:00.000Z",
+          "utc_departure": "2023-03-26T13:40:00.000Z"
+        },
+        {
+          "id": "102809934c170000f437c53b_0",
+          "combination_id": "102809934c170000f437c53b",
+          "flyFrom": "ZAG",
+          "flyTo": "WAW",
+          "cityFrom": "Zagreb",
+          "cityCodeFrom": "ZAG",
+          "cityTo": "Warsaw",
+          "cityCodeTo": "WAW",
+          "airline": "LO",
+          "flight_no": 612,
+          "operating_carrier": "LO",
+          "operating_flight_no": "612",
+          "fare_basis": "V1A0ENB",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "fare_family": "",
+          "return": 1,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2023-05-02T11:20:00.000Z",
+          "utc_arrival": "2023-05-02T09:20:00.000Z",
+          "local_departure": "2023-05-02T09:45:00.000Z",
+          "utc_departure": "2023-05-02T07:45:00.000Z"
+        },
+        {
+          "id": "102809934c170000f437c53b_1",
+          "combination_id": "102809934c170000f437c53b",
+          "flyFrom": "WAW",
+          "flyTo": "ICN",
+          "cityFrom": "Warsaw",
+          "cityCodeFrom": "WAW",
+          "cityTo": "Seoul",
+          "cityCodeTo": "SEL",
+          "airline": "LO",
+          "flight_no": 97,
+          "operating_carrier": "LO",
+          "operating_flight_no": "97",
+          "fare_basis": "V1A0ENB",
+          "fare_category": "M",
+          "fare_classes": "V",
+          "fare_family": "",
+          "return": 1,
+          "bags_recheck_required": false,
+          "vi_connection": false,
+          "guarantee": false,
+          "equipment": null,
+          "vehicle_type": "aircraft",
+          "local_arrival": "2023-05-03T06:25:00.000Z",
+          "utc_arrival": "2023-05-02T21:25:00.000Z",
+          "local_departure": "2023-05-02T13:45:00.000Z",
+          "utc_departure": "2023-05-02T11:45:00.000Z"
+        }
+      ],
+      "booking_token": "EZ9CnMMKcngwYaZnkp0lky6BzUnwmqre9eJTiAi4L19dTGZx-vvxhFGxgLLxuxtoj6QVI9P_Z4nP9IDxcTd74x-No1477BqThhk23Jh708cnC2eZp4XIf9PLRPPS0LR7HowJffbzPViGZ5Z7Gva1_j0JXSxxSASyko1FgVR2hxObRCNsbRoWSt5MHx1hSa8_CdIxQK16vcLrvnbAt6v1LK34_ss6eCYamEeXKO3HDgCbe0PHz9uJaRQ-qd7f53_vivPFlH_QbPeWyN5peqmJRv2pKLbGKXDI2OuLwpzMz6yWZ2Za8KHYZZyd72iDe_4bv0MPoIlhiEVgngD_gnWF8FMP9S1Yft0v1L-lvKTjxEXdVmK86p1J3gSgn3sBfuJBCz1n5NkaLEV12SsN_AwiMoDa-DwdcdyhXZKfdWghBbLh8G1potvVTEOgcE4ChDYsah-l_MTsk0bLN24o9PY2jhgCtj9mTRNUzTF2pVihjr3X0MTwt9xQO0XzRPWSn1f-QScvQyrv_ommY2A664DvU6G_sMsNeXjYFevABb2Vma4SqyjslZPQJReYVtZCLE1yQPYNa3qDRTwuYPU17Ijt5hlM3jyaAEiHHhQun8qXk4Qbiw371OsCIpQ8mxe2m4Z8HtfroGHItAndkt3cgYdpxqg==",
+      "facilitated_booking_available": true,
+      "pnr_count": 2,
+      "has_airport_change": false,
+      "technical_stops": 0,
+      "throw_away_ticketing": false,
+      "hidden_city_ticketing": false,
+      "virtual_interlining": true,
+      "local_arrival": "2023-03-26T17:20:00.000Z",
+      "utc_arrival": "2023-03-26T15:20:00.000Z",
+      "local_departure": "2023-03-26T10:55:00.000Z",
+      "utc_departure": "2023-03-26T01:55:00.000Z"
+    }
+  ],
+  "_results": 1,
+  "search_params": {
+    "flyFrom_type": "airport",
+    "to_type": "airport",
+    "seats": {
+      "passengers": 1,
+      "adults": 1,
+      "children": 0,
+      "infants": 0
+    }
+  },
+  "all_stopover_airports": [],
+  "sort_version": 0
+}
